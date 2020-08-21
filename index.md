@@ -13,8 +13,8 @@
 <img src="images/Annotazione 2020-08-21 102949.png?raw=true =250x250"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[MoodIndigo](https://github.com/Pemo11235/UNIBA_PPW_MoodIndigo)
+<img src="images/Immagine1.png?raw=true"/>
 
 ---
 
