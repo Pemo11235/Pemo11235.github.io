@@ -6,11 +6,11 @@
 
 [Bachelor Thesis: Compressive Sensing in Smart Grids monitoring systems](https://github.com/Pemo11235/BachelorThesis_CompressiveSensing_in_SmartGrids_monitoring_systems)
 
-<img src="images/rete_sg.png?raw=true =250x"/>
+<img src="images/rete_sg.png?raw=true =250x250"/>
 
 ---
 [La Raccolta Differenziata](https://github.com/Pemo11235/UNIBA_PPM_LaRaccoltaDifferenziata)
-<img src="images/Annotazione 2020-08-21 102949.png?raw=true =250x"/>
+<img src="images/Annotazione 2020-08-21 102949.png?raw=true =250x250"/>
 
 ---
 [Project 3 Title](http://example.com/)
