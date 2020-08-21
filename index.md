@@ -9,11 +9,11 @@
 <img src="images/tesi.png?raw=true =250x250"/>
 
 ---
-[La Raccolta Differenziata](https://github.com/Pemo11235/UNIBA_PPM_LaRaccoltaDifferenziata)
+[La Raccolta Differenziata](https://pemo11235.github.io/UNIBA_PPM_LaRaccoltaDifferenziata/)
 <img src="images/Annotazione 2020-08-21 102949.png?raw=true =250x250"/>
 
 ---
-[MoodIndigo](https://github.com/Pemo11235/UNIBA_PPW_MoodIndigo)
+[MoodIndigo](https://pemo11235.github.io/UNIBA_PPW_MoodIndigo/)
 <img src="images/Immagine1.png?raw=true"/>
 
 ---
