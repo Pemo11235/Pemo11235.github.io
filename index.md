@@ -5,7 +5,7 @@
 ### My projects
 
 [Bachelor Thesis: Compressive Sensing in Smart Grids monitoring systems](https://github.com/Pemo11235/BachelorThesis_CompressiveSensing_in_SmartGrids_monitoring_systems)
-<img src="images/Annotazione 2020-08-21 100754.png?raw=true"/>
+<img src="images/rete_sg.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
