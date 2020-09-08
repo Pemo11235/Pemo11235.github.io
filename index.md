@@ -21,8 +21,8 @@
 
 ### More 
 
-- [Java Programming 1 MOOC University of Helsinki](https://github.com/Pemo11235/Java_Programming_1_MOOC_University_of_Helsinki)
-- [Java Programming 2 MOOC University of Helsinki](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki)
+- [Java Programming 1 MOOC University of Helsinki](https://pemo11235.github.io/Java_Programming_1_MOOC_University_of_Helsinki/)
+- [Java Programming 2 MOOC University of Helsinki](https://pemo11235.github.io/Java_Programming_2_MOOC_University_of_Helsinki/)
 - [Usability Test Comune Di Manduria](https://github.com/Pemo11235/UNIBA_IUM_UsabilityTestComuneDiManduria)
 - [Cicerone](https://github.com/Pemo11235/UNIBA_IDS_Cicerone)
 - [Adventure_with_Simunav](https://github.com/Pemo11235/UNIBA_ASD_Adventure_with_Simunav)
